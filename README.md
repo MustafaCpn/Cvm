@@ -1,4 +1,3 @@
- <title>MUSTAFA ÇAPAN</title>
 </head><body><h1>MUSTAFA ÇAPAN</h1>
 <H3>BİLGİSİYAR PROGRAMCISI</H3>
 <H4>HAKIMDA</H4>
