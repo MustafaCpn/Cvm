@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MUSTAFA ÇAPAN</title>
-<style>html {background-color: rgb(245, 239, 239);}</style>
+ <title>MUSTAFA ÇAPAN</title>
 </head><body><h1>MUSTAFA ÇAPAN</h1>
 <H3>BİLGİSİYAR PROGRAMCISI</H3>
 <H4>HAKIMDA</H4>
